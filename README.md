@@ -42,9 +42,22 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
    php artisan migrate
    ```
 
-5. Start the server:
+5. Run database seeders:
 
    ```bash
+   php artisan db:seed
+   ```
+
+6. Compile assets:
+
+   ```bash
+   npm run dev
+   ```
+
+7. Start the server:
+
+   ```bash
+   
    php artisan serve
    ```
    
