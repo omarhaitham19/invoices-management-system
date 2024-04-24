@@ -22,7 +22,7 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/invoice-management-system.git
+   git clone https://github.com/omarhaitham19/invoice-management-system.git
    ```
 
 2. Install dependencies:
@@ -47,21 +47,4 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
    ```bash
    php artisan serve
    ```
-
-### Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a new Pull Request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Authors
-
-- [Your Name](https://github.com/your-username)
+   
