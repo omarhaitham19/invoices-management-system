@@ -48,20 +48,26 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
    php artisan db:seed
    ```
 
-6. Compile assets:
+6. Create a symbolic link for storage:
+
+    ```bash
+   php artisan storage:link
+   ```
+
+7. Compile assets:
 
    ```bash
    npm run dev
    ```
 
-7. Start the server:
+8. Start the server:
 
    ```bash
    
    php artisan serve
    ```
 
-8. Demo credentials :
+9. Demo credentials :
    email: omar@gmail.com
    password: 12345678
    
