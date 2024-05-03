@@ -61,7 +61,7 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
    php artisan serve
    ```
 
-8. Demo credintials :
+8. Demo credentials :
    email: omar@gmail.com
    password: 12345678
    
