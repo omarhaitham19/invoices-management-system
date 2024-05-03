@@ -60,4 +60,8 @@ Invoice Management System simplifies the creation, tracking, and oversight of in
    
    php artisan serve
    ```
+
+8. Demo credintials :
+   email: omar@gmail.com
+   password: 12345678
    
